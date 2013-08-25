@@ -1,5 +1,4 @@
-------------------------------
-------- Collect Unique -------
+Collect Unique
 ------------------------------
 
 Created by Tobiah Marks/PlayPerro in 4 hours on August 24th, 2013 for the CoronaBlitz coding challenge.
